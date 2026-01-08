@@ -1,5 +1,4 @@
 import streamlit as st
-import httpx
 import os
 from openai import AzureOpenAI
 # ---------------- CONFIG ----------------
